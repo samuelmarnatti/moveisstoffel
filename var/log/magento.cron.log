@@ -1,0 +1,705 @@
+
+In ErrorHandler.php line 61:
+                                                                               
+  Notice: fwrite(): write of 509 bytes failed with errno=5 Input/output error  
+   in /home/vagrant/magento/vendor/monolog/monolog/src/Monolog/Handler/Stream  
+  Handler.php on line 133                                                      
+                                                                               
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In ErrorHandler.php line 61:
+                                                                               
+  Notice: fwrite(): write of 509 bytes failed with errno=13 Permission denied  
+   in /home/vagrant/magento/vendor/monolog/monolog/src/Monolog/Handler/Stream  
+  Handler.php on line 133                                                      
+                                                                               
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 322:
+                                                                   
+  SQLSTATE[HY000]: General error: 2006 MySQL server has gone away  
+                                                                   
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+PHP Fatal error:  Uncaught Exception: User Error: Some transactions have not been committed or rolled back in /home/vagrant/magento/vendor/magento/framework/DB/Adapter/Pdo/Mysql.php on line 4050 in /home/vagrant/magento/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler()
+#1 /home/vagrant/magento/vendor/magento/framework/DB/Adapter/Pdo/Mysql.php(4050): trigger_error()
+#2 [internal function]: Magento\Framework\DB\Adapter\Pdo\Mysql->__destruct()
+#3 {main}
+  thrown in /home/vagrant/magento/vendor/magento/framework/App/ErrorHandler.php on line 61
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In ErrorHandler.php line 61:
+                                                                               
+  Notice: fwrite(): write of 507 bytes failed with errno=13 Permission denied  
+   in /home/vagrant/magento/vendor/monolog/monolog/src/Monolog/Handler/Stream  
+  Handler.php on line 133                                                      
+                                                                               
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+In Mysql.php line 407:
+                                                                      
+  Port must be configured within host parameter (like localhost:3306  
+                                                                      
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+In Mysql.php line 407:
+                                                                      
+  Port must be configured within host parameter (like localhost:3306  
+                                                                      
+
+In ErrorHandler.php line 61:
+                                                                               
+  Notice: fwrite(): write of 509 bytes failed with errno=5 Input/output error  
+   in /home/vagrant/magento/vendor/monolog/monolog/src/Monolog/Handler/Stream  
+  Handler.php on line 133                                                      
+                                                                               
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+PHP Fatal error:  Uncaught Exception: User Error: Some transactions have not been committed or rolled back in /home/vagrant/magento/vendor/magento/framework/DB/Adapter/Pdo/Mysql.php on line 4050 in /home/vagrant/magento/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler()
+#1 /home/vagrant/magento/vendor/magento/framework/DB/Adapter/Pdo/Mysql.php(4050): trigger_error()
+#2 [internal function]: Magento\Framework\DB\Adapter\Pdo\Mysql->__destruct()
+#3 {main}
+  thrown in /home/vagrant/magento/vendor/magento/framework/App/ErrorHandler.php on line 61
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 322:
+                                                                   
+  SQLSTATE[HY000]: General error: 2006 MySQL server has gone away  
+                                                                   
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+PHP Fatal error:  Uncaught Exception: User Error: Some transactions have not been committed or rolled back in /home/vagrant/magento/vendor/magento/framework/DB/Adapter/Pdo/Mysql.php on line 4050 in /home/vagrant/magento/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler()
+#1 /home/vagrant/magento/vendor/magento/framework/DB/Adapter/Pdo/Mysql.php(4050): trigger_error()
+#2 [internal function]: Magento\Framework\DB\Adapter\Pdo\Mysql->__destruct()
+#3 {main}
+  thrown in /home/vagrant/magento/vendor/magento/framework/App/ErrorHandler.php on line 61
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 322:
+                                                                   
+  SQLSTATE[HY000]: General error: 2006 MySQL server has gone away  
+                                                                   
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+PHP Fatal error:  Uncaught Exception: User Error: Some transactions have not been committed or rolled back in /home/vagrant/magento/vendor/magento/framework/DB/Adapter/Pdo/Mysql.php on line 4050 in /home/vagrant/magento/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler()
+#1 /home/vagrant/magento/vendor/magento/framework/DB/Adapter/Pdo/Mysql.php(4050): trigger_error()
+#2 [internal function]: Magento\Framework\DB\Adapter\Pdo\Mysql->__destruct()
+#3 {main}
+  thrown in /home/vagrant/magento/vendor/magento/framework/App/ErrorHandler.php on line 61
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+                                                          
+  There are no commands defined in the "cron" namespace.  
+                                                          
+
+
+In ErrorHandler.php line 61:
+                                                                               
+  Notice: fwrite(): write of 509 bytes failed with errno=13 Permission denied  
+   in /home/vagrant/magento/vendor/monolog/monolog/src/Monolog/Handler/Stream  
+  Handler.php on line 133                                                      
+                                                                               
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In ErrorHandler.php line 61:
+                                                                               
+  Notice: fwrite(): write of 507 bytes failed with errno=13 Permission denied  
+   in /home/vagrant/magento/vendor/monolog/monolog/src/Monolog/Handler/Stream  
+  Handler.php on line 133                                                      
+                                                                               
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In ErrorHandler.php line 61:
+                                                                               
+  Notice: fwrite(): write of 509 bytes failed with errno=13 Permission denied  
+   in /home/vagrant/magento/vendor/monolog/monolog/src/Monolog/Handler/Stream  
+  Handler.php on line 133                                                      
+                                                                               
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+

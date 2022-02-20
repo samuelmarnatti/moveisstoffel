@@ -1,0 +1,11 @@
+[31-Jan-2022 10:17:37 UTC] PHP Fatal error:  Uncaught Magento\Framework\Exception\FileSystemException: The file "/home3/hgmar882/teste_wk/teste_wk/var/.regenerate" cannot be deleted Warning!unlink(/home3/hgmar882/teste_wk/teste_wk/var/.regenerate): No such file or directory in /home3/hgmar882/teste_wk/teste_wk/vendor/magento/framework/Filesystem/Driver/File.php:384
+Stack trace:
+#0 /home3/hgmar882/teste_wk/teste_wk/vendor/magento/framework/Filesystem/Directory/Write.php(191): Magento\Framework\Filesystem\Driver\File->deleteFile('/home3/hgmar882...')
+#1 /home3/hgmar882/teste_wk/teste_wk/vendor/magento/framework/Code/GeneratedFiles.php(99): Magento\Framework\Filesystem\Directory\Write->delete('/var/.regenerat...')
+#2 /home3/hgmar882/teste_wk/teste_wk/vendor/magento/framework/App/ObjectManagerFactory.php(110): Magento\Framework\Code\GeneratedFiles->cleanGeneratedFiles()
+#3 /home3/hgmar882/teste_wk/teste_wk/vendor/magento/framework/App/Bootstrap.php(209): Magento\Framework\App\ObjectManagerFactory->create(Array)
+#4 /home3/hgmar882/teste_wk/teste_wk/vendor/ma in /home3/hgmar882/teste_wk/teste_wk/vendor/magento/framework/Filesystem/Driver/File.php on line 384
+[31-Jan-2022 10:17:39 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home3/hgmar882/teste_wk/teste_wk/vendor/zendframework/zend-stdlib/src/ArrayObject.php on line 426
+[31-Jan-2022 10:17:53 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home3/hgmar882/teste_wk/teste_wk/vendor/zendframework/zend-stdlib/src/ArrayObject.php on line 426
+[31-Jan-2022 11:15:14 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home3/hgmar882/teste_wk/teste_wk/vendor/zendframework/zend-stdlib/src/ArrayObject.php on line 426
+[31-Jan-2022 20:17:18 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home3/hgmar882/teste_wk/teste_wk/vendor/zendframework/zend-stdlib/src/ArrayObject.php on line 426
